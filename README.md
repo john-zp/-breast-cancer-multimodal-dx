@@ -39,8 +39,8 @@ If you find this code useful, please cite:
 
 @article{multimodalBC2025,\
   title   = {Multimodal Features Integration for Enhanced Breast Cancer Diagnosis Using Machine Learning},\
-  author  = {Li Ma and Shengxin Pei and others},\
-  journal = {Under Review},\
+  author  = {},\
+  journal = {},\
   year    = {2025}\
 }
 
