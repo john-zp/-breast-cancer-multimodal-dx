@@ -48,5 +48,9 @@ If you find this code useful, please cite:
 ## License
 Released under the MIT License – free for academic and commercial use; please credit the authors.
 
-## Acknowledgements
-This work was supported by the Chengdu Science & Technology Program (2022-YF05-01884-SN) and the Qinghai University Medical Faculty teaching reform project (qyjg202221)
+## Author & Contact
+
+For any questions or collaboration inquiries, feel free to contact: **zpzhang96@163.com**
+
+
+
